@@ -6,7 +6,6 @@ import 'package:delivery_app/components/CustomNameTextField.dart';
 import 'package:delivery_app/components/PasswordTextField.dart';
 import 'package:delivery_app/components/PrivacyChecker.dart';
 import 'package:delivery_app/components/backbotton.dart';
-import 'package:delivery_app/constants/AppColors.dart';
 import 'package:delivery_app/constants/UiHelper.dart';
 import 'package:delivery_app/model/profile.dart';
 import 'package:delivery_app/screens/LoginScreen.dart';
@@ -122,12 +121,12 @@ class _SignupScreenState extends State<SignupScreen> {
       body: Stack(
         children: [
           // الخلفية
-          Positioned.fill(
-            child: Image.asset(
-              'assets/images/delivery_apponlinsignup.jpg', // استبدل بالمسار الصحيح للصورة
-              fit: BoxFit.cover,
-            ),
-          ),
+          // Positioned.fill(
+          //   child: Image.asset(
+          //     'assets/images/delivery_apponlinsignup.jpg', // استبدل بالمسار الصحيح للصورة
+          //     fit: BoxFit.cover,
+          //   ),
+          // ),
           // باقي المكونات
           Center(
             child: SingleChildScrollView(
