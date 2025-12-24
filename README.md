@@ -18,6 +18,15 @@ It is one of our first real projects as we enter the programming world and try t
 - **Language**: Dart 💙
 - **Platforms**: Android (and ready for iOS/Web with Flutter support) 📲
 
+### 🪄 Design
+
+- Screenshots:
+  Figma design: [View Design]()
+
+- 🎥 App Demo:
+
+coming soon!
+
 ### ▶️ How to run the project
 
 1. Make sure you have Flutter installed and configured. 🛠️
