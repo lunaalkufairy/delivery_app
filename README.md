@@ -21,7 +21,26 @@ It is one of our first real projects as we enter the programming world and try t
 ### 🪄 Design
 
 - Screenshots:
-  Figma design: [View Design]()
+  <p float="left">
+  <img src="screenshots/login.png" width="220" />
+  <img src="screenshots/sign up.png" width="220" />
+  <img src="screenshots/varification.png" width="220" />
+  <img src="screenshots/user info.png" width="220" />
+  <img src="screenshots/map.png" width="220" />
+  <img src="screenshots/dashBoard.png" width="220" />
+  <img src="screenshots/nav bar.png" width="220" />
+  <img src="screenshots/user details.png" width="220" />
+  <img src="screenshots/product details.png" width="220" />
+  <img src="screenshots/favoraites.png" width="220" />
+  <img src="screenshots/search.png" width="220" />
+  <img src="screenshots/cart.png" width="220" />
+  <img src="screenshots/orders.png" width="220" />
+  <img src="screenshots/hestory orders.png" width="220" />
+  <img src="screenshots/edit user info.png" width="220" />
+  <img src="screenshots/change location.png" width="220" />
+  <img src="screenshots/store products.png" width="220" />
+
+</p>
 
 - 🎥 App Demo:
 
