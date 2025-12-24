@@ -30,7 +30,7 @@ It is one of our first real projects as we enter the programming world and try t
   <img src="screenshots/dashBoard.png" width="220" />
   <img src="screenshots/nav bar.png" width="220" />
   <img src="screenshots/user details.png" width="220" />
-  <img src="screenshots/product details.png" width="220" />
+  <img src="screenshots/product Details.png" width="220" />
   <img src="screenshots/favoraites.png" width="220" />
   <img src="screenshots/search.png" width="220" />
   <img src="screenshots/cart.png" width="220" />
